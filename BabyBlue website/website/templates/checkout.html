@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title%}CheckOut {% endblock %}
+{%block content%} 
+<h1 align="center">checkout </h1>
+<ul class="list-group list-group-flush" id="notes">
+	{% for item in lista %}
+	<li class="list-group-item">
+		<section align="left" >{{ item[0] }}</section>
+		
+		<section align="right" >{{ item[1] }}</section>
+	</li>
+	{% endfor %}
+</ul>
+<h2 align="right">Pret Total:{{price}}</h2>
+{% endblock %}  

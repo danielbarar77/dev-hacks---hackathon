@@ -1,0 +1,226 @@
+{
+	"products":[
+	{
+		"name": "FINE LIFE UHT 3.5% GRASIME 1L",
+		"id": "110424",
+		"price": 6.57,
+		"available": "true"
+	},
+	{
+		"name": "DORNA LAPTE UHT 3.5% GRASIME 1L",
+		"id": "1102285",
+		"price": 8.12,
+		"available": "true"
+	},
+	{
+		"name": "LADORNA LAPTE ZILE USOARE 3.5% 1L",
+		"id": "374734",
+		"price": 9.50,
+		"available": "true"
+	},
+	{
+		"name": "FINE LIFE LAPTE UHT 1.5% GRASIME 1L",
+		"id": "110425",
+		"price": 5.68,
+		"available": "true"
+	},
+	{
+		"name": "ARO LAPTE UHT 3.5% GRASIME 1L",
+		"id": "394452",
+		"price": 5.96,
+		"available": "true"
+	},
+	{
+		"name": "ARO KAISER AFUMAT GASTRO",
+		"id": "343329",
+		"price": 25.92,
+		"available": "true"
+	},
+	{
+		"name": "METRO CHEF CIOLAN AFUMAT DEZOSAT",
+		"id": "97192",
+		"price": 24.19,
+		"available": "true"
+	},
+	{
+		"name": "ARO MUSCHI FILE",
+		"id": "113642",
+		"price": 27.25,
+		"available": "true"
+	},
+	{
+		"name": "ARO SPECIALITATE DIN SPATA DE PORC",
+		"id": "114003",
+		"price": 23.42,
+		"available": "true"
+	},
+	{
+		"name": "MEDA CREMVURSTI CU PUI GASTRO",
+		"id": "95569",
+		"price": 23.99,
+		"available": "true"
+	},
+	{
+		"name": "CAROLI CREMVURSTI CU CAREN DE PASARE",
+		"id": "104722",
+		"price": 25.09,
+		"available": "true"
+	},
+	{
+		"name": "DONCAFE ELITA CAFEA BOABE 1KG",
+		"id": "240101",
+		"price": 34.00,
+		"available": "true"
+	},
+	{
+		"name": "RIOBA CAFEA BOABE PLATINUM 1KG",
+		"id": "207487",
+		"price": 49.91,
+		"available": "true"
+	},
+	{
+		"name": "FORTUNA CAFEA BOABE RENDEZ-VOUS 1KG",
+		"id": "30163",
+		"price": 59.15,
+		"available": "true"
+	},
+	{
+		"name": "GULLON BISCUITI DIGESTIVI 1KG",
+		"id": "37803",
+		"price": 17.25,
+		"available": "true"
+	},
+	{
+		"name": "ARO BISCUITI CREMA CACAO 1KG",
+		"id": "381825",
+		"price": 17.83,
+		"available": "true"
+	},
+	{
+		"name": "BALOCCO BISCUITI NOVELLINI 1KG",
+		"id": "278965",
+		"price": 25.71,
+		"available": "true"
+	},
+	{
+		"name": "VIVA BISCUITI DIGESTIVI 1KG",
+		"id": "307870",
+		"price": 18.67,
+		"available": "true"
+	},
+	{
+		"name": "LEIBNIZ BISCUITI ZOO 1KG",
+		"id": "310130",
+		"price": 51,
+		"available": "true"
+	},
+	{
+		"name": "NUTELLA BISCUITI 1KG",
+		"id": "208388",
+		"price": 55.96,
+		"available": "true"
+	},
+	{
+		"name": "RIOBA MIERE SALCAM 1KG",
+		"id": "99338",
+		"price": 38.16,
+		"available": "true"
+	},
+	{
+		"name": "METRO CHEF MIERE POLIFLORA 1KG",
+		"id": "314063",
+		"price": 21.2,
+		"available": "true"
+	},
+	{
+		"name": "METRO CHEF MIERE SALCAM 1KG",
+		"id": "292869",
+		"price": 34.16,
+		"available": "true"
+	},
+	{
+		"name": "MOS COSTACHE MIERE POLIFLORA 1KG",
+		"id": "409485",
+		"price": 22.46,
+		"available": "true"
+	},
+	{
+		"name": "TIMISOREANA BERE 1L",
+		"id": "285660",
+		"price": 3.16,
+		"available": "true"
+	},
+	{
+		"name": "CIUCAS BERE 1L",
+		"id": "291195",
+		"price": 2.8,
+		"available": "true"
+	},
+	{
+		"name": "NEUMARKT BERE 1L",
+		"id": "283905",
+		"price": 5.2,
+		"available": "true"
+	},
+	{
+		"name": "URSUS BERE 1L",
+		"id": "563485",
+		"price": 6,
+		"available": "true"
+	},
+	{
+		"name": "METRO CHEF CASCAVAL DALIA 1KG",
+		"id": "102508",
+		"price": 44.21,
+		"available": "true"
+	},
+	{
+		"name": "METRO CHEF CASCAVAL CLASIC 1KG",
+		"id": "321375",
+		"price": 41.79,
+		"available": "true"
+	},
+	{
+		"name": "METRO CHEF CASCAVAL RUCAR 1KG",
+		"id": "107674",
+		"price": 41.52,
+		"available": "true"
+	},
+	{
+		"name": "ARO CASCAVAL 1KG",
+		"id": "102508",
+		"price": 39.28,
+		"available": "true"
+	},
+	{
+		"name": "ARO CASCAVAL FELIAT 1KG",
+		"id": "351240",
+		"price": 46.67,
+		"available": "true"
+	},
+	{
+		"name": "BORSEC APA PLATA 1L",
+		"id": "957879",
+		"price": 1.37,
+		"available": "true"
+	},
+	{
+		"name": "BUCOVINA APA PLATA 1L",
+		"id": "268663",
+		"price": 1.49,
+		"available": "true"
+	},
+	{
+		"name": "ZIZIN APA PLATA 1L",
+		"id": "298495",
+		"price": 1.16,
+		"available": "true"
+	},
+	{
+		"name": "AQUATIQUE APA PLATA 1L",
+		"id": "249207",
+		"price": 3.16,
+		"available": "true"
+	}
+]
+}
